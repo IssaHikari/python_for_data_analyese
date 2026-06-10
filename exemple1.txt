@@ -1,0 +1,7 @@
+Hello
+Python
+World
+True
+Hello
+Python
+World
